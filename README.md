@@ -7,7 +7,7 @@
 [[Youtube]]() and [[Bilibili]]()
 
 ## Pipeline
-![](https://github.com/JianghaiSCU/DiffLL/blob/main/Figures/pipeline.png)
+![](./Figures/pipeline.png)
 
 ## Dependencies
 ```
@@ -40,7 +40,7 @@ python evaluate.py
 ```
 
 ## Visual comparison
-![](https://github.com/JianghaiSCU/DiffLL/blob/main/Figures/comparison.png)
+![](./Figures/comparison.png)
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
