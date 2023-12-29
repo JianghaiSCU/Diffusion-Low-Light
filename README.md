@@ -46,9 +46,12 @@ python evaluate.py
 If you use this code or ideas from the paper for your research, please cite our paper:
 ```
 @article{jiang2023low,
-  title={Low-Light Image Enhancement with Wavelet-based Diffusion Models},
-  author={Jiang, Hai and Luo, Ao and Han, Songchen and Fan, Haoqiang and Liu, Shuaicheng},
-  journal={arXiv preprint arXiv:2306.00306},
+  title={Low-light image enhancement with wavelet-based diffusion models},
+  author={Jiang, Hai and Luo, Ao and Fan, Haoqiang and Han, Songchen and Liu, Shuaicheng},
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={42},
+  number={6},
+  pages={1--14},
   year={2023}
 }
 ```
