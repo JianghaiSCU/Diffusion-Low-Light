@@ -3,9 +3,6 @@
 <h4 align="center">1.Sichuan University, 2.Megvii Technology, 
 <h4 align="center">3.University of Electronic Science and Technology of China</center></center>
 
-## Presentation video:  
-[[Youtube]]() and [[Bilibili]]()
-
 ## Pipeline
 ![](./Figures/pipeline.png)
 
